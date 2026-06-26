@@ -1,2 +1,2 @@
 # javascript-series
-laerning something new
+learning something new
